@@ -8,7 +8,7 @@ This GitHub contains multiple Levend Cluedo scripts.
 
 ## Scripts
 
-* [De Ontdekking Van De Hemel](DeOntdekkingVanDeHemel.md) 
+* [De Ontdekking Van De Hemel](DeOntdekkingVanDeHemel/README.md) 
   * Written at xx-03-2011
   * Theme: Small village
   * Roles: 15: 8x male + 7x female
