@@ -9,11 +9,13 @@ De Oceaan en de Hemel: om het eiland bevindt zich de Oceaan. Volgens sommigen, a
 
 BlaBlaBla is de filosofenclub, hier zit jij bij te filosoferen over de ziel van je leven. Je hebt dan ook een gedicht over haar geschreven: 
 
-“Ik ben mij
+```
+Ik ben mij
 Was jij
 Maar bij mij
 Dan was ik
-Vrij”
+Vrij
+```
 
 De andere leden van de BlaBlaBla, Hiëronimus de Astroloog, Wie de Boer en Eppel de uitvindster onderwaarderen jouw poëtische inslag. Jij vind het sneu voor hen dat zij hun ware liefde nog niet gevonden hebben en merkt dat dit hen beperkt in hun dagelijkse leven; je waardeert wel hun intellect en de manier waarop ze in het leven staan, die, ondanks hun onwetendheid, nog best acceptabel is. Neem nou Eppel, die elke vergadering weer aan komt zetten met iets over een “kern”-reactor, wat een onzin, er is toch maar 1 kern in Juine?
 
