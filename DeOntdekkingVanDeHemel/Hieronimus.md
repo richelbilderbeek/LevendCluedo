@@ -1,1 +1,12 @@
-# Hiëronimus
+# 1. Hiëronimus, astroloog
+
+Als Astroloog houd jij je bezig met bestuderen van de Aarde en de sterren. 
+Elke dag weer raadpleeg jij de sterren om voor elke dorpsbewoner een persoonlijke horoscoop te schrijven. Met je uitgekiende verstand over de sterren weet je dan ook dat deze horoscopen altijd waar zijn, soms denk je; dit zijn parels voor de zwijnen. 
+
+Jouw dorpsgenoten -en jij ook vroeger- geloven dat de Aarde rond is, dat de Zon opkomt in het Oosten en ondergaat in het Westen. Echter, jij hebt ontdekt -door zorgvuldige observaties- dat dit niet klopt: de Zon komt soms op in het Oosten, maar drie maanden later in het Noorden, drie maanden later in het westen, drie maanden later in het Zuiden en dan herhaalt zich dit. Hierdoor postuleer jij dat de wereld plat is en om haar as draait. Toen jij deze geniale conclusie trok, was er nog echter niemand die je gelooft! Dit vindt jij verschrikkelijk en je zult er alles aan doen om je dorpsgenoten te overtuigen.
+
+Kenau, de vermoorde vrouwelijke smid: jij hebt Kenau via een list vermoord. In het midden van het eiland zit een 'ijzerader'. Althans, zo noemde Kenau dit. Jij noemt dit 'De Heilige As Waar De Wereld Omheen Draait'.  Kenau delft ijzer uit DHAWDWOD en dit vind jij ontoelaatbaar: mocht zij hierdoor  DHAWDWOD beschadigen (waardoor de Aarde hier niet meer omheen kan draaien) dan zou jouw theorie dat de Aarde plat is en de zon elke dag uit een iets andere windrichting opkomt ongeldig worden en zouden die dommeriken nog gelijk krijgen ook! Daarom heb je haar dankzij de (onwetende) hulp van Jezus vermoord, door een steen voor de ingang van haar ijzermijn te laten belanden, waardoor ze van de honger stierf
+
+Jezus, de timmerman: Jezus is veel bezig met een katapult. Jij hebt hem al maanden geleden (!) wijsgemaakt dat een katapult gecalibreerd moet worden, door met een steen richting de opkomende Zon te schieten. Jij als astroloog had dan ook voorspeld dat op een maandag een steen voor de ingang van de grot van Kenau zou belanden.
+
+BlaBlaBla, de filosofische debat-club: Je bent lid van de BlaBlaBla, de filosofische debat-club. Jullie vinden dat Religie als leidraad voor het leven je alleen maar tegen werkt om achter de echte werkelijkheid te komen. Jouw doel binnen BlaBlaBla is om er voor te zorgen dat de Celestiale verering op de eerste plaats komt in mensen hun leven, niet Harry. De andere leden van de BlaBlaBla, namelijk Eppel, de uitvindster, Isaac de Brugtunnelbouwer en Wie, de boer waardeer je vanwege hun intellect en hun inbreng tijdens de vergaderingen. 
