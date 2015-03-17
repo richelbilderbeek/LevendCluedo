@@ -1,1 +1,12 @@
-# Hee
+# Hee, slavin
+
+Al zo lang je je kan herinneren, woon je in het dorp Juine. Je hebt je hier nooit helemaal thuis gevoeld en vaak heb je het idee dat mensen je niet goed begrijpen. Een vader of moeder heb je niet; je bent opgevoed in het klooster door Eduard de geestelijke en Pamela en Wibra, de nonnen. Jouw taak is om ervoor te zorgen dat het klooster smetteloos schoon is; Eduard controleert dit elke dag om 18:00 uur. Pas als het klooster volgens hem schoon genoeg is, krijg je avondeten. Je gaat dan ook vaak slapen zonder gegeten te hebben.
+
+HaHaHa (Heilige Harry Handelsvennootschap-club): Dit is de club waar Eduard jou lid van heeft gemaakt. Hij is ervan overtuigd dat ‘De Slinger, de kroeg waar Heilig Harry vaak zat voor zijn Heiligverklaring nu, na Harry’s dood, heilige grond is geworden: de kroeg moet omgebouwd worden tot een tempel! Het enige wat jij tijdens de vergaderingen hoeft te doen is luisteren: jouw levensdoel is vanaf nu niet meer het schoonhouden van het klooster, maar het bouwen van de Heilige Harry tempel. Wibra is ook lid van de HaHaHa.
+
+Moen de beeldhouwster: Af en toe stuurt Eduard jou naar Moen, zodat je haar kan helpen met het sjouwen van de stenen voor haar nieuwe beelden. In ruil daarvoor maakt Moen af en toe een beeld voor het klooster: maar wat heb jij aan zo’n beeld? Je hebt liever meer tijd om schoon te maken!
+
+Wibra de non: Iedereen in het dorp denkt dat de nonnen in het klooster goede mensen zijn, maar jij weet wel beter. Wibra heeft jou opdracht gegeven om het beeld dat Moen de beeldhouwster van Pamela gemaakt heeft te stelen en naar haar te brengen. Alsof dat niets is! Je hebt een hele tijd na moeten denken om een goede manier te bedenken om het beeld te stelen. En waarom moest ze dat beeld zo nodig hebben? Het had al een hele mooie plek en nu staat het in een kast! Moen was erg verdrietig toen het beeld verdwenen was; dit is niet goed voor je geweten. Maar Wibra heeft je laten zweren dat je niemand iets hierover zou vertellen…Bovendien was je altijd al een beetje bang voor Wibra.
+
+Arnout de veldwachter: Om je geweten te sussen, zou je het liefst aan Arnout de veldwachter  het gestolen beeld terugbrengen, zodat hij het weer op z’n plek terug kan zetten. Maar je bent ook bang voor de wraak van Wibra als zij er achter komt dat het beeld verdwenen is: jij bent immers de enige die weet waar nu het beeld is… Als je Arnout tegenkomt in het dorp, probeer je af en toe hem een hint te geven waar het beeld is, door bijvoorbeeld te zeggen: ‘In de kast, in de kast!’ Je hebt het idee dat hij echter niet zoveel doet met deze aanwijzingen.
+
