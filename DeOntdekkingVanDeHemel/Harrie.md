@@ -1,0 +1,3 @@
+# 17.	WEILEN Heilige Harrie, zwerver
+
+Je bent in een raket gelanceerd op Hemelvaartdag , terwijl je gewoon je roes lag uit te slapen. Op 10 meter hoogte blijft het raket hangen. Jij ziet aan de andere kant van de koepel een totaal andere wereld en wil dit kenbaar maken een de dorpelingen door met de armen en benen boodschappen te vormen. Op Hemelvaldag, na drie dagen in de koepel hebben gehangen en veel bewogen te hebben, ben jij echter zodanig afgevallen, doordat je niet kunt eten, dat je door het gat in de koepel van het eiland heen valt, je bent dan al dood. Door de dorpelingen wordt je heilig verklaard.
