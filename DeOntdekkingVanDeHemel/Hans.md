@@ -1,1 +1,11 @@
-# Hans
+# Hans, postbode/robot
+
+Jij bent Hans, een van de laatste generaties (van de 24e eeuw na Christus) humanoïde robots, zo geavanceerd dat je het verschil met echte mensen niet kan zien. Echter ben je niet perfect, want van de buitenkant ben je niet waterdicht (je geautomatiseerde verteringsmodule werkt prima), zodoende vermijd je het Heilige Harry Gat als er weer eens vloeistof doorheen vloeit. Vanwege je logische aard ben je heel precies.
+
+Jouw creatoren (J00p van de Ende 13.8 en John-ie-ie-ie-y-ie-ie-ie de M0l) hebben jou op het eiland geplaatst sinds het begin der tijden om er voor te zorgen dat Big Brother 1000 (de speciale editie) een succes werd, en tot nu toe blijft. Jij weet dan ook dat het eiland zich op een schijf bevindt die ronddraait om zo de ideale camerahoek te bewerkstelligen. Per jaar maakt hij 1 hele draai. Maar deze as moet natuurlijk wel gesmeerd worden (die achterhaalde 23ste eeuw technologie heeft dat nog nodig…).
+
+De As bevat een computer die jou via WiFi vraagt om gesmeerd te worden. Jij, als medemechanisch wezen doet dit uit solidariteit. Ter afleiding stuur je het hele dorp uitnodigingen voor het Peddelfeest. Deze uitnodigingen verstuur je zelf, edoch anoniem. De dorpelingen weten niet van wie deze uitnodigingen zijn, ze worden verstuurd door een bovennatuurlijke macht. Tijdens het Peddelfeest smeer jij het mechaniek van De As met olie uit het moeras van Wie. Hiervoor pak je een verborgen ingang, niet die van Kenau de smid, die een eigen toegang tot de As heeft gevonden. Op deze manier probeer je onopgemerkt te blijven, anders zou Kenau de gemorste oliesporen hebben kunnen opmerken. 
+
+Na de Heilige Harry Dans van vanavond deel jij de stembriefjes voor het Offerritueel uit. Dit doe jij heel formeel: op volgorde van DNA-volgorde (Je hebt een DNA-scanner in je linkerpink) en met handtekening. Hierna neem je alle briefjes weer in, wederom met handtekening en op volgorde. Ook noteer je precies wat iedereen gestemd heeft, voordat je de stemmen doorgeeft aan de veldwachter.
+
+Je bent elke dag in de kroeg, met de andere kroeg-blijvers;  Boris de Burgermeester, Jezus de Timmerman, Arnout de Veldwachter en Godelief de Barvrouw. Bier tanken kun je als de beste, je levermodule (Versie ZX20) lacht om alcohol. Hierdoor vindt je humormodule (HoHiHa-6.46b) het dan ook daadwerkelijk hilarisch om drankwedstrijden te organiseren.  Je weet dat er in het dorp meer organisaties zijn naast de Kroeg-blijvers. Jij vindt dat de beste zuiperds de zwaarst tellende stem verdienen. 
