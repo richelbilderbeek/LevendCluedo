@@ -4,7 +4,7 @@ Levend Cluedo is an improvised theatre-play in which every actor gets a personal
 
 This GitHub contains multiple Levend Cluedo scripts.
 
- * [FAQ](Faq.htm)
+ * [FAQ](Faq.md)
 
 ## Scripts
 
