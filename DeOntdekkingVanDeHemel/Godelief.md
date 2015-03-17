@@ -1,1 +1,9 @@
-# Godelief
+# 15. Godelief, barvrouw
+
+Jij bent de barvrouw van jouw kroeg 'De Slinger'. Op de gevel van jouw kroeg prijkt dan ook in houten letters 'De Slinger'. Als barvrouw sta je elke dag in jouw kroeg achter de bar en dit wordt dan ook gewaardeerd door Arnout de veldwachter, Hans de postbode, Jezus de timmerman en Boris de burgemeester.  
+
+Jij wilt je intellect trainen, en hierdoor speel je dan ook regelmatig boter-kaas-en-eieren tegen jezelf, waarbij je regelmatig de tijd neemt om de spelsituatie te analyseren. Je bent ook erg geïnteresseerd in ruimtevaart, maar je vindt het erg ingewikkeld dat de Aarde rond de Zon draait: waarom vliegt de Aarde niet uit zijn baan? Door deze fascinatie wil je Buitenlander worden, maar zonder ruimteraket zul je dit beroep nooit kunnen beoefenen. Je intellect houdt je echter geheim, omdat je bang bent om domme vragen te stellen.
+
+Harry, de zwerver: Harry zat op Hemelvalsdag in jou kroeg, nog dronkener dan altijd. Jij zei hem vannacht eens lekker in de raket van Jezus, de timmerman te gaan slapen, in de hoop dat Harry jou morgen alles over deze raket zal vertellen (dronkaards vertellen altijd de waarheid). Bovendien bewonder je Harry om zijn moed en dapperheid, durf en lef en ridderlijkheid. Toen op Hemelvaartdag de raket werd afgeschoten bleef hij echter op 10 meter in de lucht hangen, met Harry erin. Harry was ook te zien, alleen zijn armen en benen en hiermee maakte hij een soort vreemde dans. Precies op Hemelvalsdag viel hij uiteindelijk toch naar beneden, dood. Hij wordt door de andere dorpelingen heilig verklaard, maar jij haat Harry. Hij had namelijk nog een gigantische drankrekening, die nu nooit afbetaald zal worden.
+
+Hans, de postbode: Hans is bang voor het gat wat Harry heeft achtergelaten en is heel erg precies. Hij weet zelfs binnen 5 minuten uit te rekenen hoeveel kleingeld hij van je teruggeld en weet van iedereen hoeveel ze nog aan jouw verschuldigd zijn. Hoewel dit heel handig is, vind je dit wel vreemd. Je denkt dat hij te weinig moederliefde heeft ontvangen, je hebt met hem te doen en wil hem graag deze gemiste moederliefde geven.
