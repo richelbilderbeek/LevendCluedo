@@ -6,11 +6,9 @@ De Ontdekking Van De Hemel is a Levend Cluedo about a small village called Juine
 
 This Levend Cluedo is suitable for all ages.
 
-    Download the 'Levend Cluedo: De Ontdekking Van De Hemel' intro (doc)
-    Download the 'Levend Cluedo: De Ontdekking Van De Hemel' intro (odt)
-    Download the 'Levend Cluedo: De Ontdekking Van De Hemel' newpaper (pdf)
-    Download the 'Levend Cluedo: De Ontdekking Van De Hemel' script (doc)
-    Download the 'Levend Cluedo: De Ontdekking Van De Hemel' script (odt)
+# Setting
 
- *  [Setting](Setting.md): to be handed out to all
- *  [Newspaper](Newspaper.md): to be handed out to all
+
+ * [Setting](Setting.md): To be handed out to all ([ODT](Setting.odt),[DOC](Setting.doc))
+ * [Newspaper](Newspaper.md): To be handed out to all ([PDF](Newspaper.pdf))
+ * Individual scripts: to be distributed to the individual actors ([ODT](Script.odt),[DOC](Script.doc))

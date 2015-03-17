@@ -143,8 +143,11 @@ Gezocht
 
 Grijze steen, luistert naar de naam 'Herman'.
 
-Compositietekening: [COMPOSITIETEKENING]
+Compositietekening:```
 
+![Herman](Herman.png)
+
+```
 Mocht u deze steen gezien hebben, neemt
 u dan contact op met uw veldwachter.
 
