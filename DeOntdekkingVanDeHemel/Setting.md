@@ -12,10 +12,10 @@ Na de Offering (die dus nog nooit heeft plaatsgevonden) is het tijd voor De Pedd
 Het Eerste Heilige Harry Gebod is om veel bier of wijn of whiskey of pisang ambon of bananendrank te consumeren tijdens Het Peddelfeest, en hieraan geef jij gretig vervulling. Maar het zou nog meer voldoening geven om op deze Heiligste Dag der Heilige Dagen uit te zoeken wie Kenau zo heeft toegetakeld. Immers, het 2de Heilige Harry Gebod is: Gij zult op zondag uw kater uitslapen, en dat kan natuurlijk niet in Juine als 1/16de van de bevolking is uitgeroeid?
 
 De resterende 15/16de van de bevolking zijn:
-Arnout, de Veldwachter
-Boris, de Burgermeester
-Eduard, de Geestelijke en zijn Nonnen Wibra & Pamela
-Eppel, de Uitvindster
+* Arnout, de Veldwachter
+* Boris, de Burgermeester
+* Eduard, de Geestelijke en zijn Nonnen Wibra & Pamela
+* Eppel, de Uitvindster
 * Glycerientje, het Kruidenvrouwtje
 * Godelief, de Barvrouw
 * Hans, de Postbode
