@@ -9,7 +9,7 @@
  * [Baron van Munschausen](Baron_van_Munschausen.md)
  * [Bernard](Bernard.md)
  * [Brutus](Brutus.md)
- * [Claire](Claire.md)
+ * [Clair](Clair.md)
  * [Columbus](Columbus.md)
  * [Eagle-Eye](Eagle-Eye.md)
  * [Eppie](Eppie.md)
