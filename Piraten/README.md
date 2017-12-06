@@ -1,26 +1,31 @@
 # Piraten
 
-## Rollen
+  * Geschreven in februari 2002 door Suzanne Holla and Richel Bilderbeek
+  * Thema: Pirates
+  * Rollen: 17: 9x man + 8x vrouw
+  * Moeilijkheidsgraad: Gemakkelijk
 
-17 rollen,	
+## Roles
 
- * [Adele](Adele.md)
- * [Albert](Albert.md)
- * [Baron van Munschausen](Baron_van_Munschausen.md)
- * [Bernard](Bernard.md)
- * [Brutus](Brutus.md)
- * [Clair](Clair.md)
- * [Columbus](Columbus.md)
- * [Eagle-Eye](Eagle-Eye.md)
- * [Eppie](Eppie.md)
- * [Fransien](Fransien.md)
- * [Janine](Janine.md)
- * [Maarten](Maarten.md)
- * [Miep](Miep.md)
- * [Mirjam](Mirjam.md)
- * [Otaria](Otaria.md)
- * [Richele](Richele.md)
- * [Sam](Sam.md)
+17 rollen
+
+ * V [Adele](Adele.md)
+ * M [Albert](Albert.md)
+ * M [Baron van Munschausen](Baron_van_Munschausen.md)
+ * M [Bernard](Bernard.md)
+ * M [Brutus](Brutus.md)
+ * V [Clair](Clair.md)
+ * M [Columbus](Columbus.md)
+ * M [Eagle-Eye](Eagle-Eye.md)
+ * M [Eppie](Eppie.md)
+ * V [Fransien](Fransien.md)
+ * V [Janine](Janine.md)
+ * M [Maarten](Maarten.md)
+ * V [Miep](Miep.md)
+ * V [Mirjam](Mirjam.md)
+ * V [Otaria](Otaria.md)
+ * V [Richele](Richele.md)
+ * V [Sam](Sam.md)
 
 ## Voor de leiding
 

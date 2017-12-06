@@ -38,7 +38,7 @@ This GitHub contains multiple Levend Cluedo scripts.
   * Theme: Gothic/horror
   * Roles: 16: 8x male + 8x female
   * Difficulty: Hard
-* Piraten
+* [Piraten](Piraten/README.md)
   * Written at xx-02-2002
   * Theme: Pirates
   * Roles: 17: 9x male + 8x female
