@@ -5,9 +5,9 @@
   * Rollen: 17: 9x man + 8x vrouw
   * Moeilijkheidsgraad: Gemakkelijk
 
-## Roles
+## Rollen
 
-17 rollen
+17 rollen: 9x man en 8x vrouw
 
  * V [Adele](Adele.md)
  * M [Albert](Albert.md)
@@ -23,7 +23,7 @@
  * M [Maarten](Maarten.md)
  * V [Miep](Miep.md)
  * V [Mirjam](Mirjam.md)
- * V [Otaria](Otaria.md)
+ * M [Otaria](Otaria.md)
  * V [Richele](Richele.md)
  * V [Sam](Sam.md)
 
