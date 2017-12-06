@@ -1,5 +1,9 @@
 # Piraten
 
+'Piraten' is een Levend Cluedo die zich afspeelt in de kroeg van een piratenschip.
+De (meestal domme) piraten zijn vriendelijke karikaturen.
+Een gemakkelijke Leven Cluedo waarbij je grog kunt serveren!
+
   * Geschreven in februari 2002 door Suzanne Holla and Richel Bilderbeek
   * Thema: Pirates
   * Rollen: 17: 9x man + 8x vrouw
